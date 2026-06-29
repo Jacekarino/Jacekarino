@@ -1,3 +1,6 @@
+https://github.com/Jacekarino
+https://jacekarino.itch.io/
+
 # Hi, I'm Jacek 👋
 
 👨‍🎓 Computer Science student at Collegium Witelona, Legnica, Poland
