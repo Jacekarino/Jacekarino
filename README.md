@@ -10,8 +10,6 @@
 [![Itch.io](https://img.shields.io/badge/Itch.io-Games-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://jacekarino.itch.io/)
 [![Email](https://img.shields.io/badge/Email-jacekarino%40duck.com-00B4D8?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:jacekarino@duck.com)
 
-<br />
-
 ---
 
 ### Languages & Technologies
