@@ -17,7 +17,7 @@
 
 <div align="center">
 
-### Languages
+### Languages 
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
@@ -64,12 +64,10 @@
 [![Apache / XAMPP](https://img.shields.io/badge/Apache_/_XAMPP-D22128?style=for-the-badge&logo=apache&logoColor=white)](https://www.apachefriends.org/)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 
-### Game Development & Web APIs
+### Game Development
 [![Godot](https://img.shields.io/badge/Godot_Engine-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)](https://godotengine.org/)
 [![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
 [![GameMaker](https://img.shields.io/badge/GameMaker-000000?style=for-the-badge&logo=gamemaker&logoColor=white)](https://gamemaker.io/)
-[![Web Audio API](https://img.shields.io/badge/Web_Audio_API-10B981?style=for-the-badge&logo=audioboom&logoColor=white)](#)
-[![Web Crypto API](https://img.shields.io/badge/Web_Crypto_API-8B5CF6?style=for-the-badge&logo=shieldcheckered&logoColor=white)](#)
-[![Geolocation API](https://img.shields.io/badge/Geolocation_API-00A86B?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+[![Pico-8](https://img.shields.io/badge/Pico-8-FF832B?style=for-the-badge&logo=pico-8&logoColor=white)](https://www.lexaloffle.com/pico-8.php)
 
 </div>
