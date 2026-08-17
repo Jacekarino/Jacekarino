@@ -5,29 +5,13 @@
 **🎓 Computer Science Student**
 **💻 Web & Mobile Developer**
 **🎮 Game Dev Enthusiast**
-**📍 Legnica, Poland 🇵🇱**
-**✉️ [jacekarino@duck.com]**
 <br />
 
 [![GitHub](https://img.shields.io/badge/GitHub-Jacekarino-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jacekarino)
 [![Itch.io](https://img.shields.io/badge/Itch.io-Games-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://jacekarino.itch.io/)
 [![Email](https://img.shields.io/badge/Email-jacekarino%40duck.com-00B4D8?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:jacekarino@duck.com)
 
-<br />
-
----
-
 </div>
-
-## 👨‍💻 About Me
-
-- 🎓 **Education:** Computer Science student at **Collegium Witelona** in Legnica, Poland.
-- 📱 **Focus:** Crafting lightweight, lightning-fast web applications and modern mobile solutions with zero unnecessary bloat.
-- 🎨 **Design Philosophy:** Big fan of sleek dark modes, *Glassmorphism*, fluid micro-interactions, and accessible typography.
-- 🎮 **Game Development:** Passionate about indie game design, procedural generation, and experimental gameplay using **Godot, Unity, GameMaker**, and text-based engines.
-- ⚡ **Open Source:** Enthusiastic about creating useful community utilities and interactive browser games.
-
----
 
 ## 🛠️ Tech Stack & Arsenal
 
@@ -57,13 +41,5 @@
 [![Godot](https://img.shields.io/badge/Godot_Engine-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)](https://godotengine.org/)
 [![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
 [![GameMaker](https://img.shields.io/badge/GameMaker-000000?style=for-the-badge&logo=gamemaker&logoColor=white)](https://gamemaker.io/)
-
-</div>
-
----
-
-<br />
-
-<sub>Designed with precision & passion by **Jacek Kowalczyk (@Jacekarino)**</sub>
 
 </div>
