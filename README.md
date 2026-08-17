@@ -7,7 +7,7 @@
 <br />
 
 [![GitHub](https://img.shields.io/badge/GitHub-Jacekarino-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jacekarino)
-[![Itch.io](https://img.shields.io/badge/Itch.io-Games_Portfolio-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://jacekarino.itch.io/)
+[![Itch.io](https://img.shields.io/badge/Itch.io-Games-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://jacekarino.itch.io/)
 [![Email](https://img.shields.io/badge/Email-jacekarino%40duck.com-00B4D8?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:jacekarino@duck.com)
 
 <br />
