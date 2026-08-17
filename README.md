@@ -12,7 +12,9 @@
 
 <br />
 
-### Languages 
+---
+
+### Languages & Technologies
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=FFE873)](https://www.python.org/)
@@ -26,7 +28,7 @@
 
 <br />
 
-### Frontend Frameworks & Libraries
+### Frameworks & Libraries
 [![React](https://img.shields.io/badge/React-18_/_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
 [![Vite](https://img.shields.io/badge/Vite-Fast_Build_Tool-646CFF?style=for-the-badge&logo=vite&logoColor=FFD62E)](https://vitejs.dev/)
 [![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-Utility_First-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
@@ -35,7 +37,7 @@
 
 <br />
 
-### Backend & API Frameworks
+### Backend & API
 [![Laravel](https://img.shields.io/badge/Laravel-12.x_Framework-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
 [![Flask](https://img.shields.io/badge/Flask-Micro_Framework-000000?style=for-the-badge&logo=flask&logoColor=00f2fe)](https://flask.palletsprojects.com/)
 [![Node.js](https://img.shields.io/badge/Node.js-Async_Runtime-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
