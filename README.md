@@ -2,20 +2,11 @@
 
 # Hey there, I'm Jacek! 👋
 
-**🎓 Computer Science Student**  
-**💻 Web & Mobile Developer**  
-**🎮 Game Dev Enthusiast**  
-<br />
+**🎓 Computer Science Student 💻 Web & Mobile Developer 🎮 Game Dev Enthusiast**  
 
 [![GitHub](https://img.shields.io/badge/GitHub-Jacekarino-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jacekarino)
 [![Itch.io](https://img.shields.io/badge/Itch.io-Games-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://jacekarino.itch.io/)
 [![Email](https://img.shields.io/badge/Email-jacekarino%40duck.com-00B4D8?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:jacekarino@duck.com)
-
-</div>
-
-## 🛠️ Tech Stack & Arsenal
-
-<div align="center">
 
 ### Languages 
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
